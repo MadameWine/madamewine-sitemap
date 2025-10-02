@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madamewine.github.io/madamewine-sitemap/sitemap.xml
